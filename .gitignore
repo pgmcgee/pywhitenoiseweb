@@ -1,0 +1,4 @@
+dist
+build
+deploy.sh
+pywhitenoiseweb-dynamic.spec
